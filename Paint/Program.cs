@@ -4,7 +4,7 @@ namespace Paint
     {
         /// <summary>
         ///  The main entry point for the application.
-        /// </summary>
+        /// </summary>dsdsd
         [STAThread]
         static void Main()
         {
